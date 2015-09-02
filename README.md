@@ -1,4 +1,4 @@
--This project uses Apache Server, Jetty Server on Port 8444, Glassfish Server 4.0, eXist Database and MySQL Database on Port 3307.
+This project uses Apache Server, Jetty Server on Port 8444, Glassfish Server 4.0, eXist Database and MySQL Database on Port 3307.
 
 -To edit the the quiz Questions and Answers, the Questions.xml from the WEB folder is required on eXist Database in a collection called 'AnswerQuest'. -The user login for the eXist Database is 'admin' and the password is 'password'.
 
